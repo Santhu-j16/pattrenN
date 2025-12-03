@@ -5,7 +5,7 @@ for (let i = 1; i<=8 ;i++){
         pattrenN +=j;
     }
 
-pattrenN +="\n";
+pattrenN +="\n ";
 }
 
 console.log(pattrenN);
